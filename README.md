@@ -6,4 +6,4 @@
 回転：スペース  
 ※キーボードのみ  
 
-[pepo3244.github.io/Tetris-JS](pepo3244.github.io/Tetris-JS)にアクセスすると実際に遊べます
+[http://pepo3244.github.io/Tetris-JS](http://pepo3244.github.io/Tetris-JS)にアクセスすると実際に遊べます
